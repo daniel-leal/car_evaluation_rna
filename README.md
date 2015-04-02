@@ -1,4 +1,4 @@
-# car_evaluation_rna
+# Car Evalutation -> RNA
 -- Machine Learning -- 
 -- Car Evaluation Using Artificial Neural Network with R Script --
 
